@@ -1,0 +1,11 @@
+mongodb+srv://parag:Parag%40123@cluster0.bvpb8jt.mongodb.net/mystack?retryWrites=true&w=majority&appName=AtlasApp
+
+
+
+
+
+
+
+
+
+mongodb+srv://user:Parag123@cluster0.bvpb8jt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
